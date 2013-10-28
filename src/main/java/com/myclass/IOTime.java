@@ -8,5 +8,5 @@ package com.myclass;
  * To change this template use File | Settings | File Templates.
  */
 public class IOTime {
-
+    String path = "/home/nikit/testfile";
 }
